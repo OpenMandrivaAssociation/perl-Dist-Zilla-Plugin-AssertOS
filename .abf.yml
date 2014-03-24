@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-AssertOS-0.04.tar.gz: 6f8e737e5e9fe5fdb0a82e6fdae62e785c09538d
 sources:
-  "Dist-Zilla-Plugin-AssertOS-0.04.tar.gz": 6f8e737e5e9fe5fdb0a82e6fdae62e785c09538d
+  Dist-Zilla-Plugin-AssertOS-0.06.tar.gz: 9cbbf41f8a4a83449f1a3e8eb148b0ce04e824fb

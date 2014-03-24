@@ -1,9 +1,9 @@
 %define upstream_name    Dist-Zilla-Plugin-AssertOS
-%define upstream_version 0.04
+%define upstream_version 0.06
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Release:	1
 
 Summary:	Require that our distribution is running on a particular OS
 License:	GPL+ or Artistic
@@ -49,4 +49,5 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc META.yml LICENSE README META.json Changes
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
+
 
